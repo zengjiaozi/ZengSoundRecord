@@ -1,0 +1,39 @@
+<resources>
+
+    <!--toolber的介绍-->
+    <string name="app_name">Zeng音频</string>
+    <string name="action_licenses">开源许可</string>
+
+    <!--license 介绍-->
+    <string name="license_title_fab">浮动操作按钮</string>
+    <string name="license_auther">作者——曾辉</string>
+    <string name="license_content_fab">
+        使用许可证（一）
+         ncopyright 2014年亚历山大melnykov \n
+         现npermission \n是引用的，免费的，任何人获得一份
+         本软件和相关的文档文件（“软件”）的交易。
+        在没有限制的软件，包括无限制的权利
+        使用，复制，修改，分发，使用，发布，sublicense，和/或销售
+         副本的软件，和软件的人是谁。
+      有这样做，受以下条件：
+        nthe \n以上版权通知和本许可通知书应包括在所有
+        副本或实质性部分的软件。
+      nthe \n软件是提供“是”没有任何表示或保证孩子
+     隐含的，包括但不限于《大学merchantability保证，
+     适合特定用途和noninfringement。在没有事件的应
+     作者或版权持有人承担的任何索赔，损害赔偿或其他
+     负债，无论在行动（在合同，侵权或其他，从而引起的，
+    离开或在连接与软件或使用或在其他交易
+      软件。
+    </string>
+    <string name="tab_title_record">开始录音</string>
+    <string name="tab_title_saved_recordings">录音记录</string>
+    <string name="record_prompt">点击按钮开始记录</string>
+    <string name="fileName">我的录音记录</string>
+    <string name="toast_recording_finish">录音记录保存在</string>
+    <string name="notification_recording">正在保存中。。。。。</string>
+    <string name="toast_recording_start">开始录音</string>
+    <string name="record_in_progress">录音中</string>
+    <string name="resume_recording_button">暂停录音</string>
+    <string name="pause_recording_button">继续录音</string>
+</resources>
